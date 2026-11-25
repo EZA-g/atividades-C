@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1795226302 source:d:\users\micro\desktop\trabalhos - c\banco digital\banco_digital\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"meuBanco.h"
+
+1795229409 d:\users\micro\desktop\trabalhos - c\banco digital\banco_digital\meubanco.h
+
+1795228551 source:d:\users\micro\desktop\trabalhos - c\banco digital\banco_digital\banco.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"meuBanco.h"
+
